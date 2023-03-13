@@ -1,4 +1,4 @@
-!/usr/bin/node
+#!/usr/bin/node
 
 // script to print strings using a loop
 
